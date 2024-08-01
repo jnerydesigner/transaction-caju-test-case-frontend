@@ -34,5 +34,5 @@ yarn dev
 
 ## Repository Java Project
 
-[Repository Java Project](hhttps://github.com/jnerydesigner/transaction-caju-test-case)
+[Repository Java Project](https://github.com/jnerydesigner/transaction-caju-test-case)
 
