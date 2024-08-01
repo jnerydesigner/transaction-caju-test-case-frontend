@@ -38,11 +38,11 @@ function App() {
       </div>
       <div className="flex justify-center items-center flex-col bg-red-600">
         <div className="h-[800px] w-[400px] ">
-          <img src="/new-phone.png" alt="device" className="h-full w-full" />
+          <img src="https://raw.githubusercontent.com/jnerydesigner/transaction-caju-test-case-frontend/main/public/new-phone.png" alt="device" className="h-full w-full" />
         </div>
         <div className="h-[724px] w-[350px] absolute bg-white left-[787x] rounded-[50px]">
           <div className="w-[70%] flex justify-center items-center mt-4 ml-[50px]">
-            <img src="/caju-img.jpg" alt="Cartão Caju" />
+            <img src="https://raw.githubusercontent.com/jnerydesigner/transaction-caju-test-case-frontend/main/public/caju-img.jpg" alt="Cartão Caju" />
           </div>
           <div className="top-[220px] left-[120px] flex justify-center items-center flex-row">
             <div>
